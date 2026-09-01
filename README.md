@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Helen 👋
+# 💫 About Me:
+# 👋 Hi, I'm Helen Kahsay<br><br>### 🚀 Full-Stack Developer | Software Engineering Student<br><br>I'm a passionate software engineering student on a mission to build real-world applications that solve problems.<br><br>## 🛠️ Tech Stack<br><br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br><br>## 📊 GitHub Stats<br><br>![Helen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helenkahsay&show_icons=true&theme=radical)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helenkahsay&layout=compact&theme=radical)<br><br>## 🚀 Projects<br><br>**1. GPRM - GitHub Profile README Maker**<br>- Full-stack app with Java, MySQL, HTML, CSS, JS<br>- Features: Dynamic form builder, live preview, 300+ icons<br>- DSA: HashMap caching, TreeMap routing<br><br>**2. Hospital Management System**<br>- Java + MySQL desktop application<br>- Patient registration, appointments, billing<br><br>**3. Library Management System**<br>- Full-stack web app with search (Binary Search), authentication<br><br>## 📖 Learning<br><br>✅ Java, MySQL, DSA, HTML/CSS/JS  <br>🔄 Python & Full-Stack Development  <br>📅 Next: Flask/Django, React, DevOps<br><br>## 🤝 Connect With Me<br><br>📧 helenkahsay@email.com  <br>🐙 [github.com/helenkahsay](https://github.com/helenkahsay)  <br>🔗 [linkedin.com/in/helenkahsay](https://linkedin.com/in/helenkahsay)  <br>🌐 [helenkahsay.dev](https://helenkahsay.dev)<br><br>---<br><br>**Built with ❤️ by Helen Kahsay**
 
-<!--
-**helin2112/helin2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=helin2112&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=helin2112&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=helin2112&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=helin2112&icon=4&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
