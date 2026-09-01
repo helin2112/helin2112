@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineering student currently learning Python and AI to become a full-stack developer. I'm working on building full-stack web applications and a DSA Visualizer project. I'm looking to collaborate on open source projects with AI integration and need help with scalable AI web applications and cloud architecture. Ask me about Java, MySQL, DSA, and full-stack development. Fun fact - I solve DSA problems for fun and believe being "lazy" means finding smarter ways to get things done
+I'm a software engineering student currently learning Python and AI to become a full-stack developer. I'm working on building full-stack web applications and a DSA Visualizer project. Ask me about Java, MySQL, DSA, and full-stack development. Fun fact - I solve DSA problems for fun and believe being "lazy" means finding smarter ways to get things done
 
 
 ## 🌐 Socials:
