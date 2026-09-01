@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a software engineering student currently learning Python and AI to become a full-stack developer. I'm working on building full-stack web applications and a DSA Visualizer project. Ask me about Java, MySQL, DSA, and full-stack development. Fun fact - I solve DSA problems for fun and believe being "lazy" means finding smarter ways to get things done
-
+Hi I'm Helen kahsay
+I'm a software engineering student currently learning Python and AI to become a full-stack developer. I'm working on building full-stack web applications and a DSA Visualizer project.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helen_snappy) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Helen Kahsay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kahsayhelen445@gmail.com) 
