@@ -1,16 +1,24 @@
-## Hi I'm Helen 👋
 # 💫 About Me:
-# 👋 Hi, I'm Helen Kahsay<br><br>### 🚀 Full-Stack Developer | Software Engineering Student<br><br>I'm a passionate software engineering student on a mission to build real-world applications that solve problems.<br><br>## 🛠️ Tech Stack<br><br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br><br>## 📊 GitHub Stats<br><br>![Helen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helenkahsay&show_icons=true&theme=radical)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helenkahsay&layout=compact&theme=radical)<br><br>## 🚀 Projects<br><br>**1. GPRM - GitHub Profile README Maker**<br>- Full-stack app with Java, MySQL, HTML, CSS, JS<br>- Features: Dynamic form builder, live preview, 300+ icons<br>- DSA: HashMap caching, TreeMap routing<br><br>**2. Hospital Management System**<br>- Java + MySQL desktop application<br>- Patient registration, appointments, billing<br><br>**3. Library Management System**<br>- Full-stack web app with search (Binary Search), authentication<br><br>## 📖 Learning<br><br>✅ Java, MySQL, DSA, HTML/CSS/JS  <br>🔄 Python & Full-Stack Development  <br>📅 Next: Flask/Django, React, DevOps<br><br>## 🤝 Connect With Me<br><br>📧 helenkahsay@email.com  <br>🐙 [github.com/helenkahsay](https://github.com/helenkahsay)  <br>🔗 [linkedin.com/in/helenkahsay](https://linkedin.com/in/helenkahsay)  <br>🌐 [helenkahsay.dev](https://helenkahsay.dev)<br><br>---<br><br>**Built with ❤️ by Helen Kahsay**
+I'm a software engineering student currently learning Python and AI to become a full-stack developer. I'm working on building full-stack web applications and a DSA Visualizer project. I'm looking to collaborate on open source projects with AI integration and need help with scalable AI web applications and cloud architecture. Ask me about Java, MySQL, DSA, and full-stack development. Fun fact - I solve DSA problems for fun and believe being "lazy" means finding smarter ways to get things done
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helen_snappy) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Helen Kahsay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kahsayhelen445@gmail.com) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=helin2112&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=helin2112&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=helin2112&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=helin2112&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=helin2112&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=helin2112&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=helin2112&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=helin2112&icon=4&color=11)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=helin2112&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
